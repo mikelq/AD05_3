@@ -1,0 +1,2 @@
+USER AD05_APP
+PASS secret
